@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Jyothikasai 👋
 
-<!--
-**JyothikasaiNallamolu/JyothikasaiNallamolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer | Full Stack Developer | AI Application Developer | Prompt Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate developer with experience in:
+
+- Flutter Development
+- Full Stack Web Development
+- AI Applications
+- OpenAI API Integrations
+- Prompt Engineering
+- RAG Architectures
+- Supabase
+
+## Technologies
+
+- Flutter
+- Dart
+- Python
+- SQL
+- OpenAI APIs
+- Supabase
+- HTML
+- CSS
+
+## Currently Working On
+
+- AI-powered applications
+- Flutter mobile apps
+- Full stack web solutions
+- Prompt engineering projects
+
+## Connect With Me
+
+LinkedIn:
+(www.linkedin.com/in/jyothikasai-nallamolu-a556ab244)
